@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 
+- adjust code for latest Hugo version (0.161.1) by fixing deprecation warnings
 - ...
 
 ## [2.10.1] - 2022-09-21
@@ -42,7 +43,7 @@
 - Indonesian translation
 - Ukrainian translation
 - Arabic translation
-- Support `.Site.Language.LanguageDirection`
+- Support `.Site.Language.Direction` (was: `.Site.Language.LanguageDirection`)
 
 ### Fixed
 
