@@ -16,7 +16,7 @@ For example, if you want to translate Minimo in Spanish, you will have to add th
 ```toml
 [languages.es]
 lang = "es"
-languageName = "Spanish"
+label = "Spanish"
 weight = 1
 ```
 
